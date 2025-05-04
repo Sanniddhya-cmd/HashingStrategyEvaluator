@@ -13,12 +13,16 @@ This tool processes an input file of integer keys, inserts them into hash tables
 
 Project Structure
 -----------------
-.
 ├── HashLabMain.java                  # Main class to run all hashing experiments
+
 ├── HashTable.java                    # Core hashing logic and evaluation
+
 ├── input_108.txt                     # Sample input file (integer keys)
+
 ├── AllHashingResults_input_108.txt  # Sample output file with performance metrics
+
 ├── .gitignore                        # Ignores compiled files and IDE configs
+
 └── README.txt                        # Project description and usage instructions
 
 --------------------------------------------------
