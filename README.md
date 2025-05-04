@@ -76,5 +76,7 @@ This project is open source. You are free to use, modify, and distribute it for 
 Author
 -------
 Sanniddhya Bardhan
+
 MS Bioinformatics
+
 Johns Hopkins University
